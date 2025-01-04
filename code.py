@@ -1,3 +1,4 @@
+#Version without loop while.
 n = int(input("Write the number:\n"))
 print("The multiplication table of the number {} is...\n".format(n))
 print("{} x 0 = {}".format(n, n * 0))
