@@ -11,3 +11,12 @@ print("{} x 7 = {}".format(n, n * 7))
 print("{} x 8 = {}".format(n, n * 8))
 print("{} x 9 = {}".format(n, n * 9))
 print("{} x 10 = {}".format(n, n * 10))
+
+#Version with loop while.
+n = int(input("Write the number:\n"))
+print("The multiplication table of the number {} is...\n".format(n))
+count = 0
+while count <= 10:
+    print("{} x {} = {}".format(n, count, n * count))
+    count += 1
+
