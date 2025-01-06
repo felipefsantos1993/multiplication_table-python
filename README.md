@@ -1,2 +1,2 @@
 # multiplication_table-python
- Multiply any number using this application.
+ Find out the multiplication table of any number.
